@@ -39,7 +39,7 @@ const firstClass = [
         id: ' @{webSite}/vodshow/1--------@{page}---.html',
     },
     {
-        name: '有码',
+        name: '无码',
         // https://d.thyys.net/vodshow/2--------2---.html
         // 把网站主页变成 @{webSite}  把页码变成 @{page}
         id: ' @{webSite}/vodshow/2--------@{page}---.html',
