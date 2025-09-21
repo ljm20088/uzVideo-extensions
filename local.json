@@ -318,6 +318,14 @@
     "type": 101
   },
   {
+    "name": "[嗅] 桃花源",
+    "version": 1,
+    "webSite": "https://d.thyys.net",
+    "order": "C",
+    "api": "vod/js/Xiu_thy.js",
+    "type": 101
+  },
+  {
     "name": "[嗅] 路漫漫",
     "version": 1,
     "webSite": "https://www.lmm97.com",
